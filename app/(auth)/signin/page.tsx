@@ -2,7 +2,7 @@
 
 import { SigninMutation } from '@/gql/signinMutation'
 import { setToken } from '@/utils/token'
-import { Button, Input } from '@nextui-org/react'
+import { Button, Input } from "@heroui/react"
 import { useRouter } from 'next/navigation'
 import { useState } from 'react'
 import { useMutation } from 'urql'

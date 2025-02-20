@@ -5,7 +5,7 @@ import {
   DropdownItem,
   DropdownMenu,
   DropdownTrigger,
-} from '@nextui-org/react'
+} from "@heroui/react"
 import StatusRing from './StatusRing'
 import { useMutation } from 'urql'
 import { EditIssueIssueMutation } from '@/gql/updateIssueMutation'

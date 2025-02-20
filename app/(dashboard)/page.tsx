@@ -14,7 +14,7 @@ import {
   Textarea,
   Tooltip,
   useDisclosure,
-} from '@nextui-org/react'
+} from "@heroui/react"
 import { PlusIcon } from 'lucide-react'
 import { CreateIssueMutation } from '@/gql/createIssueMutation'
 import Issue from '../_components/Issue'
